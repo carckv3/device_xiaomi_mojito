@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_mojito.mk
+    $(LOCAL_DIR)/banana_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    bootleg_mojito-user \
-    bootleg_mojito-userdebug \
-    bootleg_mojito-eng
+    banana_mojito-user \
+    banana_mojito-userdebug \
+    banana_mojito-eng
